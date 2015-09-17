@@ -32,6 +32,10 @@ b{
 	font-weight: 600;
 }
 
+.facabook {
+  color: blue;
+}
+
 
 /* Titulos
 -------------------------------------------------------------------------*/
@@ -188,23 +192,23 @@ p.title{
 	background-position-x: 55%;
 	background-repeat: no-repeat;
 }
-.slot1{
-	background-image: url("../img/cboard01-1.jpg");
+.subj1{
+	background-image: url("../img/subj1.jpg");
 }
-.slot2{
-	background-image: url("../img/cboard2-2.jpg");
+.subj2{
+	background-image: url("../img/subj2.jpg");
 }
-.slot3{
-	background-image: url("../img/cboard3-3.jpg");
+.subj3{
+	background-image: url("../img/subj3.jpg");
 }
-.slot4{
-	background-image: url("../img/cboard4.jpg");
+.subj4{
+	background-image: url("../img/subj4.jpg");
 }
-.slot5{
-	background-image: url("../img/cboard5.jpg");
+.subj5{
+	background-image: url("../img/subj5.jpg");
 }
-.slot6{
-	background-image: url("../img/cboard6.jpg");
+.subj6{
+	background-image: url("../img/subj6.jpg");
 }
 
 
@@ -247,6 +251,63 @@ p.title{
 }
 .obj6{
   background-image: url("../img/obj6.jpg");
+}
+.obj7{
+  background-image: url("../img/obj7.jpg");
+}
+.obj8{
+  background-image: url("../img/obj8.jpg");
+}
+.obj9{
+  background-image: url("../img/obj9.jpg");
+}
+.obj10{
+  background-image: url("../img/obj10.jpg");
+}
+.obj11{
+  background-image: url("../img/obj11.jpg");
+}
+.obj12{
+  background-image: url("../img/obj12.jpg");
+}
+.obj13{
+  background-image: url("../img/obj13.jpg");
+}
+.obj14{
+  background-image: url("../img/obj14.jpg");
+}
+.obj15{
+  background-image: url("../img/obj15.jpg");
+}
+.obj16{
+  background-image: url("../img/obj16.jpg");
+}
+.obj17{
+  background-image: url("../img/obj17.jpg");
+}
+.obj18{
+  background-image: url("../img/obj18.jpg");
+}
+.obj19{
+  background-image: url("../img/obj19.jpg");
+}
+.obj20{
+  background-image: url("../img/obj20.jpg");
+}
+.obj21{
+  background-image: url("../img/obj21.jpg");
+}
+.obj22{
+  background-image: url("../img/obj22.jpg");
+}
+.obj23{
+  background-image: url("../img/obj23.jpg");
+}
+.obj24{
+  background-image: url("../img/obj24.jpg");
+}
+.obj25{
+  background-image: url("../img/obj25.jpg");
 }
 
 
