@@ -214,22 +214,28 @@ p.title{
 
 
 .adj1{
-  background-image: url("../img/cboard2-2.jpg");
+  background-image: url("../img/adj1.jpg");
 }
 .adj2{
-  background-image: url("../img/cboardadj2.jpg");
+  background-image: url("../img/adj2.jpg");
 }
 .adj3{
-  background-image: url("../img/cboardadj3.jpg");
+  background-image: url("../img/adj3.jpg");
 }
 .adj4{
-  background-image: url("../img/cboardadj4.jpg");
+  background-image: url("../img/adj4.jpg");
 }
 .adj5{
-  background-image: url("../img/cboardadj5.jpg");
+  background-image: url("../img/adj5.jpg");
 }
 .adj6{
-  background-image: url("../img/cboardadj6.jpg");
+  background-image: url("../img/adj6.jpg");
+}
+.adj6{
+  background-image: url("../img/adj7.jpg");
+}
+.adj6{
+  background-image: url("../img/adj8.jpg");
 }
 
 
@@ -308,6 +314,24 @@ p.title{
 }
 .obj25{
   background-image: url("../img/obj25.jpg");
+}
+.obj26{
+  background-image: url("../img/obj26.jpg");
+}
+.obj27{
+  background-image: url("../img/obj27.jpg");
+}
+.obj28{
+  background-image: url("../img/obj28.jpg");
+}
+.obj29{
+  background-image: url("../img/obj29.jpg");
+}
+.obj30{
+  background-image: url("../img/obj30.jpg");
+}
+.obj31{
+  background-image: url("../img/obj31.jpg");
 }
 
 
