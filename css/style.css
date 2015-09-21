@@ -32,8 +32,12 @@ b{
 	font-weight: 600;
 }
 
-.facabook {
+.facebook {
   color: blue;
+}
+
+.twitter {
+  color: red;
 }
 
 
@@ -231,11 +235,32 @@ p.title{
 .adj6{
   background-image: url("../img/adj6.jpg");
 }
-.adj6{
+.adj7{
   background-image: url("../img/adj7.jpg");
 }
-.adj6{
+.adj8{
   background-image: url("../img/adj8.jpg");
+}
+.adj9{
+  background-image: url("../img/adj9.jpg");
+}
+.adj10{
+  background-image: url("../img/adj10.jpg");
+}
+.adj11{
+  background-image: url("../img/adj11.jpg");
+}
+.adj12{
+  background-image: url("../img/adj12.jpg");
+}
+.adj13{
+  background-image: url("../img/adj13.jpg");
+}
+.adj14{
+  background-image: url("../img/adj14.jpg");
+}
+.adj15{
+  background-image: url("../img/adj15.jpg");
 }
 
 
