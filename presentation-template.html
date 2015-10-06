@@ -22,9 +22,14 @@
       src='http://html5slides.googlecode.com/svn/trunk/slides.js'></script>
   </head>
   
+
   <style>
-  .nobackground {
-      background-color: blue;
+  article.nobackground.current {
+      background-color: lightblue;
+    }
+
+    section.slides.layout-regular.template-default {
+        background-color: #FFEFD5;
     }
 
 
@@ -34,9 +39,12 @@
     
   </style>
 
-  <body style='display: none'>
+  <body class="body" style='display: none'>
 
-    <section class='slides layout-regular template-default'>
+
+
+    <section class='slides layout-regular template-default' 'section'>
+
       
       <!-- Your slides (<article>s) go here. Delete or comment out the
            slides below. -->
@@ -63,13 +71,16 @@
         </h3>
         <ul>
           <li>
-            Create an interactive App that uses humerous strings of foul language to teach proper grammer.
+            1.Create an interactive App that uses humerous strings of foul language to teach proper grammer.
           </li>
           <li>
-            1. Enable the user to share their "smack" on a friends social media pages.
+            2. Enable the user to share their "smack" on a friends social media pages.
           </li>
           <li>
-            2. Enable the user via social media to invite friends to a "smackdown" where they trade randomly generated "smack".
+            3. Enable the user via social media to invite friends to a "smackdown" where they trade randomly generated "smack".
+          </li>
+          <li>
+            4. Create more games that access a database to load content.
           </li>
         </ul>
       </article>
